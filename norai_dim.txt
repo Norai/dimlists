@@ -1,0 +1,6 @@
+title:Norai's Wishlist
+description: The personal DIM wishlist of Norai
+
+// Cartesian Coordinate
+//notes:[SnowvaBear] Hipfire - PvP
+dimwishlist:item=2481881293&perks=2405638014,689005463,1866048759,2213355989
