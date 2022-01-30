@@ -41,6 +41,12 @@ dimwishlist:item=1626503676&perks=2450788523,2846385770
 dimwishlist:item=1626503676&perks=2946784966,1015611457
 dimwishlist:item=1626503676&perks=2946784966,2846385770
 
+// Annual Skate - All around (god-pve,god-pvp)
+//notes: Red-5's Season of the Lost Picks PvP/PvE - these perks seem fairly solid all around for all game modes tags:god-pve,god-pvp
+dimwishlist:item=6857689&perks=1926090094,3142289711,1168162263,1954620775
+dimwishlist:item=6857689&perks=1926090094,106909392,1168162263,1954620775
+dimwishlist:item=6857689&perks=1926090092,3142289711,1168162263,1954620775
+dimwishlist:item=6857689&perks=1926090092,106909392,1168162263,1954620775
 // Annual Skate : Hand-Cannon, Primary-Ammo, Solar, PvE - 2022-01-23
 //notes: losifavish - PvE
 dimwishlist:item=6857689&perks=1168162263,4082225868
@@ -110,7 +116,24 @@ dimwishlist:item=2121785039&perks=247725512,4104185692
 //notes:[SnowvaBear] Consistency - PvP
 dimwishlist:item=528834068&perks=1885400500,1359896290,1890422124
 dimwishlist:item=528834068&perks=1561002382,1359896290,1890422124
+// BrayTech Werewolf - PvP (god-pvp,controller)
+//notes: Poddre's List - PvP - MW: Stability tags:god-pvp,controller
+dimwishlist:item=528834068&perks=4090651448,1885400500,1645158859,1546637391
 
+// BxR-55 Battler - PvP God Roll (god-pvp)
+//notes: Poddre's List - PvP God Roll - MW: Range or Stability. Source: Merc tags:god-pvp
+dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,1015611457
+// BxR-55 Battler - PvP Alts (pvp)
+//notes: Poddre's List - PvP - MW: Range or stability. Source: Massive Podcast tags:pvp
+dimwishlist:item=2708806099&perks=3661387068,3230963543,2450788523,699525795
+dimwishlist:item=2708806099&perks=1482024992,3230963543,2450788523,699525795
+dimwishlist:item=2708806099&perks=1392496348,3230963543,2450788523,699525795
+// BxR-55 Battler - PvE (pve)
+//notes: Poddre's List - PvE - MW: TBD. Source: Massive Podcast tags:pve
+dimwishlist:item=2708806099&perks=3230963543,3523296417,454085387
+dimwishlist:item=2708806099&perks=3230963543,3523296417,11612903
+dimwishlist:item=2708806099&perks=1431678320,3523296417,454085387
+dimwishlist:item=2708806099&perks=1431678320,3523296417,11612903
 // BxR-55 Battler : Pulse-Rifle, Primary-Ammo, Solar, PvPvE - 2022-01-28
 //notes: losifavish - PvPvE
 dimwishlist:item=2708806099&perks=1885400500,1168162263,1015611457
@@ -156,6 +179,14 @@ dimwishlist:item=1119734784&perks=1840239774,3142289711,588594999,3425386926
 dimwishlist:item=1119734784&perks=1467527085,3142289711,588594999,3425386926
 dimwishlist:item=1119734784&perks=4090651448,3142289711,588594999,3425386926
 dimwishlist:item=1119734784&perks=839105230,3142289711,588594999,3425386926
+// Chroma Rush - PvP (controller,god-pvp)
+//notes: Poddre's List - PvP - MW: Range. Source: Coolguy tags:controller,god-pvp
+dimwishlist:item=1119734784&perks=839105230,3142289711,1570042021,1015611457
+
+// Chroma Rush - PvE (god-pve,controller)
+//notes: Poddre's List - PvE - MW: Stability. Source: Coolguy tags:god-pve,controller
+dimwishlist:item=1119734784&perks=839105230,3142289711,1570042021,3425386926
+
 // Chroma Rush : Auto-Rifle, Primary-Ammo, Kinetic, PvE - 2022-01-28
 //notes: losifavish - PvE
 dimwishlist:item=1119734784&perks=2779035018,11612903
@@ -223,6 +254,50 @@ dimwishlist:item=3565520715&perks=3301904089,2284787283,2396489472
 
 // D: -----------------------------------------------------------------------
 
+// Darkest Before - PvP God Roll (god-pvp,controller)
+//notes: Poddre's Wishlist - PvP God Roll. Counter Balance Mod. MW: Stability tags:god-pvp,controller
+dimwishlist:item=2481758391&perks=3661387068,1885400500,3161816588,3511092054
+dimwishlist:item=2481758391&perks=3661387068,1885400500,3161816588
+dimwishlist:item=2481758391&perks=3661387068,1885400500,3511092054
+dimwishlist:item=2481758391&perks=3661387068,3161816588,3511092054
+dimwishlist:item=2481758391&perks=1885400500,3161816588,3511092054
+dimwishlist:item=2481758391&perks=3661387068,1885400500
+dimwishlist:item=2481758391&perks=3661387068,3511092054
+dimwishlist:item=2481758391&perks=3661387068,3161816588
+dimwishlist:item=2481758391&perks=1885400500,3161816588
+dimwishlist:item=2481758391&perks=1885400500,3511092054
+dimwishlist:item=2481758391&perks=3161816588,3511092054
+
+// Darkest Before - PvP Good Rolls (pvp,controller)
+//notes: Poddre's Wish List - PvP - Good Rolls - Mod: Targeting Adjuster, Rampage Spec if Rampage. MW: Stability or Range depending on roll. Don't run Arrow and Elemental Capacitor. tags:pvp,controller
+dimwishlist:item=2481758391&perks=3661387068,1885400500,3436462433,3425386926
+dimwishlist:item=2481758391&perks=3661387068,1885400500,3436462433,4267945040
+dimwishlist:item=2481758391&perks=3661387068,1885400500,3436462433,3511092054
+dimwishlist:item=2481758391&perks=3661387068,1885400500,1820235745,3425386926
+dimwishlist:item=2481758391&perks=3661387068,1885400500,1820235745,4267945040
+dimwishlist:item=2481758391&perks=3661387068,1885400500,1820235745,3511092054
+dimwishlist:item=2481758391&perks=3661387068,1885400500,3161816588,3425386926
+dimwishlist:item=2481758391&perks=3661387068,1885400500,3161816588,4267945040
+dimwishlist:item=2481758391&perks=3661387068,1885400500,3161816588,3511092054
+dimwishlist:item=2481758391&perks=1467527085,1885400500,3436462433,3425386926
+dimwishlist:item=2481758391&perks=1467527085,1885400500,3436462433,4267945040
+dimwishlist:item=2481758391&perks=1467527085,1885400500,3436462433,3511092054
+dimwishlist:item=2481758391&perks=1467527085,1885400500,1820235745,3425386926
+dimwishlist:item=2481758391&perks=1467527085,1885400500,1820235745,4267945040
+dimwishlist:item=2481758391&perks=1467527085,1885400500,1820235745,3511092054
+dimwishlist:item=2481758391&perks=1467527085,1885400500,3161816588,3425386926
+dimwishlist:item=2481758391&perks=1467527085,1885400500,3161816588,4267945040
+dimwishlist:item=2481758391&perks=1467527085,1885400500,3161816588,3511092054
+dimwishlist:item=2481758391&perks=839105230,1885400500,3436462433,3425386926
+dimwishlist:item=2481758391&perks=839105230,1885400500,3436462433,4267945040
+dimwishlist:item=2481758391&perks=839105230,1885400500,3436462433,3511092054
+dimwishlist:item=2481758391&perks=839105230,1885400500,1820235745,3425386926
+dimwishlist:item=2481758391&perks=839105230,1885400500,1820235745,4267945040
+dimwishlist:item=2481758391&perks=839105230,1885400500,1820235745,3511092054
+dimwishlist:item=2481758391&perks=839105230,1885400500,3161816588,3425386926
+dimwishlist:item=2481758391&perks=839105230,1885400500,3161816588,4267945040
+dimwishlist:item=2481758391&perks=839105230,1885400500,3161816588,3511092054
+
 // Darkest Before : Pulse-Rifle, Primary-Ammo, Arc, PvE - 2022-01-26
 //notes: losifavish - PvE
 dimwishlist:item=2481758391&perks=1561002382,1820235745,3425386926
@@ -243,6 +318,46 @@ dimwishlist:item=981718087&perks=2010801679,3300816228
 dimwishlist:item=981718087&perks=3436462433,4071163871
 dimwishlist:item=981718087&perks=3436462433,3592538738
 dimwishlist:item=981718087&perks=3436462433,3300816228
+
+// Dead Man's Tale - Endgame PvE
+//notes: Poddre's List - PvE - Range + Stability are the goal. Vorpal is what I want. |tags:controller,god-pvp
+dimwishlist:item=3654674561&perks=3661387068,3177308360,1546637391,990298390
+dimwishlist:item=3654674561&perks=3661387068,1885400500,1546637391,990298390
+dimwishlist:item=3654674561&perks=3661387068,3142289711,1546637391,990298390
+dimwishlist:item=3654674561&perks=4090651448,3177308360,1546637391,990298390
+dimwishlist:item=3654674561&perks=4090651448,1885400500,1546637391,990298390
+dimwishlist:item=3654674561&perks=4090651448,3142289711,1546637391,990298390
+dimwishlist:item=3654674561&perks=1482024992,3177308360,1546637391,990298390
+dimwishlist:item=3654674561&perks=1482024992,1885400500,1546637391,990298390
+dimwishlist:item=3654674561&perks=1482024992,3142289711,1546637391,990298390
+
+
+// Dead Man's Tale - PvP
+//notes: Poddre's List - PvP - Range + Stability are the goal. Almost any of the main perk are good. Moving target is main according to Merc |tags:controller,god-pvp
+dimwishlist:item=3654674561&perks=3661387068,1885400500,588594999,3465198467
+dimwishlist:item=3654674561&perks=3661387068,1885400500,1168162263,3465198467
+dimwishlist:item=3654674561&perks=3661387068,1885400500,2450788523,3465198467
+
+
+// Dead Man's Tale - PvP
+//notes: Poddre's List - PvP - Not god roll but good |tags:pvp,controller
+dimwishlist:item=3654674561&perks=4090651448,3230963543,4259401308
+dimwishlist:item=3654674561&perks=4090651448,3230963543,990298390
+dimwishlist:item=3654674561&perks=4090651448,679225683,4259401308
+dimwishlist:item=3654674561&perks=4090651448,679225683,990298390
+dimwishlist:item=3654674561&perks=1392496348,3230963543,4259401308
+dimwishlist:item=3654674561&perks=1392496348,3230963543,990298390
+dimwishlist:item=3654674561&perks=1392496348,679225683,4259401308
+dimwishlist:item=3654674561&perks=1392496348,679225683,990298390
+dimwishlist:item=3654674561&perks=1840239774,3230963543,4259401308
+dimwishlist:item=3654674561&perks=1840239774,3230963543,990298390
+dimwishlist:item=3654674561&perks=1840239774,679225683,4259401308
+dimwishlist:item=3654674561&perks=1840239774,679225683,990298390
+
+// Dead Man's Tale - PvP garbage
+//notes: Poddre's List - PvP/PvE - Garbage to avoid
+dimwishlist:item=-3654674561&perks=839105230,1968497646,957782887
+dimwishlist:item=-3654674561&perks=1467527085,1968497646,957782887
 
 // Dire Promise : Hand-Cannon, Primary-Ammo, Kinetic, PvE - 2022-01-23
 //notes: losifavish - PvE
@@ -284,6 +399,23 @@ dimwishlist:item=235827225&perks=1168162263,1015611457
 dimwishlist:item=235827225&perks=2846385770,588594999
 dimwishlist:item=235827225&perks=2846385770,124408337
 dimwishlist:item=235827225&perks=2846385770,957782887
+
+// Eye of Sol - PvP
+//notes: Poddre's List - PvP - MW: TBD |tags:god-pvp,controller
+dimwishlist:item=3164743584&perks=1840239774,3142289711,588594999,47981717
+dimwishlist:item=3164743584&perks=1840239774,3142289711,2866798147,47981717
+dimwishlist:item=3164743584&perks=1840239774,3142289711,47981717
+dimwishlist:item=3164743584&perks=1840239774,3142289711,588594999
+dimwishlist:item=3164743584&perks=1840239774,3142289711,2866798147
+dimwishlist:item=3164743584&perks=1840239774,47981717
+dimwishlist:item=3164743584&perks=1840239774,588594999
+dimwishlist:item=3164743584&perks=1840239774,2866798147
+dimwishlist:item=3164743584&perks=1840239774,3142289711
+
+// Eye of Sol (Adept) - PvP
+//notes: Poddre's List - PvP - MW: TBD |tags:god-pvp,controller
+dimwishlist:item=3637570176&perks=1840239774,3142289711,588594999,47981717
+dimwishlist:item=3637570176&perks=1840239774,3142289711,2866798147,47981717
 
 // F: -----------------------------------------------------------------------
 
@@ -394,6 +526,10 @@ dimwishlist:item=2139640995&perks=1749209109,4049631843
 dimwishlist:item=2139640995&perks=3705817207,4049631843
 dimwishlist:item=2139640995&perks=2590710093,4049631843
 
+// Horror Story - PvP (god-pvp,controller)
+//notes: Poddre's List - PvP - Minimal info. Not good but this is a roll to throw in the vault. tags:god-pvp,controller
+dimwishlist:item=3829285960&perks=2450788523,588594999
+
 // I: -----------------------------------------------------------------------
 
 // Ignition Code : Grenade-Launcher, Special-Ammo, Kinetic, PvE - 2022-01-23
@@ -456,6 +592,20 @@ dimwishlist:item=3460122497&perks=201365942,4104185692
 // Interference VI
 //notes:[SnowvaBear] PvP (Velocity Masterwork)
 dimwishlist:item=2257180473&perks=1478423395,409831596,3300816228,3523296417,4105787911
+
+// Iota Draconis - PvP (god-pvp,controller)
+//notes: Poddre's List - PvP - MW: Stability tags:god-pvp,controller
+dimwishlist:item=3044460004&perks=1467527085,1687452232,1645158859,2213355989
+dimwishlist:item=3044460004&perks=1467527085,1687452232,1645158859
+dimwishlist:item=3044460004&perks=1467527085,1687452232,2213355989
+dimwishlist:item=3044460004&perks=1467527085,1645158859,2213355989
+dimwishlist:item=3044460004&perks=1687452232,1645158859,2213355989
+dimwishlist:item=3044460004&perks=1467527085,1687452232
+dimwishlist:item=3044460004&perks=1467527085,1645158859
+dimwishlist:item=3044460004&perks=1467527085,2213355989
+dimwishlist:item=3044460004&perks=1687452232,1645158859
+dimwishlist:item=3044460004&perks=1687452232,2213355989
+dimwishlist:item=3044460004&perks=1645158859,2213355989
 
 // Iota Draconis : Fusion-Rifle, Primary-Ammo, Solar, PvPvE - 2022-01-28
 //notes: losifavish - PvE
@@ -546,6 +696,13 @@ dimwishlist:item=3849810018&perks=3301904089,2010801679,960810156
 dimwishlist:item=3849810018&perks=3301904089,2010801679,1546637391
 dimwishlist:item=3849810018&perks=3301904089,2621346526,1546637391
 
+// Peacebond - PvP Range (pvp,controller)
+//notes: Poddre's Wishlist - PvP God Roll according to CoolGuy. Full on max range. MW: Range tags:pvp,controller
+dimwishlist:item=829330711&perks=3250034553,3142289711,2846385770,591790007
+// Peacebond - PvP Stability (controller,pvp)
+//notes: Poddre's Wishlist - PvP "God Roll" with focus on stability. Everything doesn't need to be stability otherwise it will go too far. 90 Stability is goal. MW: Range tags:controller,pvp
+dimwishlist:item=829330711&perks=1482024992,3230963543,2846385770,438098033
+dimwishlist:item=829330711&perks=1482024992,3177308360,2846385770,438098033
 // Peacebond : Sidearm, Primary-Ammo, Stasis, PvE - 2022-01-25
 //notes: losifavish - PvE
 dimwishlist:item=829330711&perks=1820235745,4082225868
@@ -553,6 +710,12 @@ dimwishlist:item=829330711&perks=1820235745,3523296417
 dimwishlist:item=829330711&perks=1820235745,124408337
 dimwishlist:item=829330711&perks=2846385770,957782887
 dimwishlist:item=829330711&perks=2846385770,591790007
+
+// Punching Out - PvP (controller,god-pvp)
+//notes: Poddre's List - PvP - MW: TBD tags:controller,god-pvp
+dimwishlist:item=378498222&perks=1482024992,1885400500,4071163871,1015611457
+dimwishlist:item=378498222&perks=1482024992,1885400500,588594999,1015611457
+dimwishlist:item=378498222&perks=1482024992,1885400500,2846385770,1015611457
 
 // Punching Out : Sidearm, Primary-Ammo, Solar, PvE - 2022-01-25
 //notes: losifavish - PvE
@@ -599,6 +762,19 @@ dimwishlist:item=346136302&perks=2869569095,2679249093
 dimwishlist:item=346136302&perks=2869569095,3523296417
 dimwishlist:item=346136302&perks=2869569095,1546637391
 
+// Retraced Path - PvP Range (controller,pvp)
+//notes: Poddre's List - PvP - MW: Range. Source: Massive Podcast tags:controller,pvp
+dimwishlist:item=548958835&perks=3250034553,2969185026,1428297954,438098033
+dimwishlist:item=548958835&perks=3250034553,2969185026,2450788523,438098033
+// Retraced Path - PvP (pvp,controller)
+//notes: Poddre's List - PvP - MW: Range. Source: Massive Podcast tags:pvp,controller
+dimwishlist:item=548958835&perks=1482024992,732557052,1428297954,438098033
+dimwishlist:item=548958835&perks=1482024992,732557052,2450788523,438098033
+dimwishlist:item=548958835&perks=1392496348,732557052,1428297954,438098033
+dimwishlist:item=548958835&perks=1392496348,732557052,2450788523,438098033
+// Retraced Path - PvE ()
+//notes: Poddre's List - PvE - MW: TBD. Source: Massive Podcast
+dimwishlist:item=548958835&perks=1820235745,1683379515
 // Retraced Path : Trace-Rifle, Special-Ammo, Solar, PvE - 2022-01-28
 //notes: losifavish - PvE
 dimwishlist:item=548958835&perks=1820235745,4049631843
@@ -621,6 +797,39 @@ dimwishlist:item=2776503072&perks=3230963543,3300816228,2848615171
 //notes: losifavish - PvE
 dimwishlist:item=602618796&perks=839105230,1820235745,3425386926
 dimwishlist:item=602618796&perks=1820235745,3425386926
+
+// Servant Leader - PvP
+//notes: Poddre's List - PvP - MW: TBD |tags:controller,god-pvp
+dimwishlist:item=1107446438&perks=3250034553,3142289711,1168162263,3425386926
+dimwishlist:item=1107446438&perks=3250034553,3142289711,1168162263,1015611457
+dimwishlist:item=1107446438&perks=3250034553,3142289711,247725512,3425386926
+dimwishlist:item=1107446438&perks=3250034553,3142289711,247725512,1015611457
+dimwishlist:item=1107446438&perks=3250034553,3142289711,1570042021,3425386926
+dimwishlist:item=1107446438&perks=3250034553,3142289711,1570042021,1015611457
+dimwishlist:item=1107446438&perks=3250034553,3142289711,1168162263
+dimwishlist:item=1107446438&perks=3250034553,3142289711,247725512
+dimwishlist:item=1107446438&perks=3250034553,3142289711,1570042021
+dimwishlist:item=1107446438&perks=3250034553,3142289711
+
+// Servant Leader - Endgame PvE
+//notes: Poddre's List - PvE - MW: TBD |tags:god-pve,controller
+dimwishlist:item=1107446438&perks=3700496672,1774574192
+dimwishlist:item=1107446438&perks=3700496672,4104185692
+dimwishlist:item=1107446438&perks=1354429876,1774574192
+dimwishlist:item=1107446438&perks=1354429876,4104185692
+dimwishlist:item=1107446438&perks=247725512,1774574192
+dimwishlist:item=1107446438&perks=247725512,4104185692
+
+// Servant Leader - PvP MBD (god-pvp,controller)
+//notes: Poddre's List - PvP - God roll according to Merc. Want max stability. Don't need more range. MW: Stability? tags:god-pvp,controller
+dimwishlist:item=1107446438&perks=1392496348,3177308360,247725512,1015611457
+
+// Servant Leader - PvP MBD (pvp,controller)
+//notes: Poddre's List - PvP - Good Roll according to Merc. MW: Stability? tags:pvp,controller
+dimwishlist:item=1107446438&perks=1392496348,3230963543,1168162263,1015611457
+dimwishlist:item=1107446438&perks=1392496348,3230963543,2946784966,1015611457
+dimwishlist:item=1107446438&perks=1392496348,106909392,1168162263,1015611457
+dimwishlist:item=1107446438&perks=1392496348,106909392,2946784966,1015611457
 
 // Servant Leader - Scout-Rifle, Primary-Ammo, Kinetic, PvE - 2022-01-25
 //notes: losifavish - PvE
@@ -798,6 +1007,11 @@ dimwishlist:item=3257091167&perks=3705817207,1546637391
 dimwishlist:item=3257091167&perks=3705817207,4104185692
 dimwishlist:item=3257091167&perks=2077819806,4104185692
 
+// The Time-Worn Spire - PvP (god-pvp,controller)
+//notes: Poddre's List - PvP - Mod: Counter Balance. Can out range Messenger with Rifle and Rico Rounds.  tags:god-pvp,controller
+dimwishlist:item=3593598010&perks=679077873,1885400500,588594999,11551321
+dimwishlist:item=3593598010&perks=679077873,1885400500,2039302152,11551321
+
 // Threaded Needle : Linear-Fusion-Rifle, Power-Ammo, Void, PvE - 2022-01-24
 //notes: losifavish - PvE
 dimwishlist:item=3075224551&perks=2284787283,1546637391
@@ -852,6 +1066,17 @@ dimwishlist:item=3242168339&perks=1168162263,3038247973
 dimwishlist:item=3242168339&perks=1168162263,2458213969
 dimwishlist:item=3242168339&perks=1168162263,1546637391
 
+// Vulpecula - PvP (pvp,controller)
+//notes: Poddre's List - PvP - MW: TBD tags:pvp,controller
+dimwishlist:item=1622998472&perks=1840239774,106909392,1168162263,438098033
+dimwishlist:item=1622998472&perks=1840239774,106909392,1168162263,124408337
+dimwishlist:item=1622998472&perks=1840239774,106909392,2450788523,438098033
+dimwishlist:item=1622998472&perks=1840239774,106909392,2450788523,124408337
+
+// Vulpecula - PvE (pve,controller)
+//notes: Poddre's List - PvE - Mod: TBD MW: TBD tags:pve,controller
+dimwishlist:item=1622998472&perks=3700496672,3038247973
+
 // Vulpecula : Hand-Cannon, Primary-Ammo, Stasis, PvE - 2022-01-25
 //notes: losifavish - PvE
 dimwishlist:item=1622998472&perks=3142289711,1195158366,124408337
@@ -901,6 +1126,33 @@ dimwishlist:item=1679868061&perks=791862061,1428297954,2450788523
 dimwishlist:item=211938782&perks=201365942,4082225868
 dimwishlist:item=211938782&perks=201365942,1546637391
 dimwishlist:item=211938782&perks=201365942,3523296417
+
+// Wolftone Draw - PvP
+//notes: Poddre's List - PvP - Great Bow/Pistol finish combo. MW: Draw Time |tags:god-pvp,controller
+dimwishlist:item=3472875143&perks=2801223209,3429800428,201365942,438098033
+dimwishlist:item=3472875143&perks=2801223209,3429800428,201365942
+dimwishlist:item=3472875143&perks=2801223209,3429800428,438098033
+dimwishlist:item=3472875143&perks=2801223209,201365942,438098033
+dimwishlist:item=3472875143&perks=3429800428,201365942,438098033
+dimwishlist:item=3472875143&perks=2801223209,438098033
+dimwishlist:item=3472875143&perks=2801223209,201365942
+dimwishlist:item=3472875143&perks=2801223209,3429800428
+dimwishlist:item=3472875143&perks=3429800428,201365942
+dimwishlist:item=3472875143&perks=3429800428,438098033
+dimwishlist:item=3472875143&perks=201365942,438098033
+
+// Wolftone Draw - PvE
+//notes: Poddre's List - PvE - MW: Draw time |tags:god-pve,controller
+dimwishlist:item=3472875143&perks=2801223209,3429800428,3700496672,4104185692
+dimwishlist:item=3472875143&perks=2801223209,3429800428,3700496672,3523296417
+dimwishlist:item=3472875143&perks=2801223209,3429800428,3700496672
+dimwishlist:item=3472875143&perks=2801223209,3429800428,4104185692
+dimwishlist:item=3472875143&perks=2801223209,3700496672,4104185692
+dimwishlist:item=3472875143&perks=3429800428,3700496672,4104185692
+dimwishlist:item=3472875143&perks=2801223209,3429800428,3700496672
+dimwishlist:item=3472875143&perks=2801223209,3429800428,3523296417
+dimwishlist:item=3472875143&perks=2801223209,3700496672,3523296417
+dimwishlist:item=3472875143&perks=3429800428,3700496672,3523296417
 
 // Wolftone Draw : Bow, Primary-Ammo, Arc, PvE - 2022-01-28
 //notes: losifavish - PvE
